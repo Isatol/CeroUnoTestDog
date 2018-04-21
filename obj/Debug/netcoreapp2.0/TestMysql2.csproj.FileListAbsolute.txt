@@ -1,0 +1,11 @@
+c:\users\analista(hacsys)\source\repos\TestMysql2\bin\Debug\netcoreapp2.0\TestMysql2.deps.json
+c:\users\analista(hacsys)\source\repos\TestMysql2\bin\Debug\netcoreapp2.0\TestMysql2.runtimeconfig.json
+c:\users\analista(hacsys)\source\repos\TestMysql2\bin\Debug\netcoreapp2.0\TestMysql2.runtimeconfig.dev.json
+c:\users\analista(hacsys)\source\repos\TestMysql2\bin\Debug\netcoreapp2.0\TestMysql2.dll
+c:\users\analista(hacsys)\source\repos\TestMysql2\obj\Debug\netcoreapp2.0\TestMysql2.csprojResolveAssemblyReference.cache
+c:\users\analista(hacsys)\source\repos\TestMysql2\obj\Debug\netcoreapp2.0\TestMysql2.csproj.CoreCompileInputs.cache
+c:\users\analista(hacsys)\source\repos\TestMysql2\obj\Debug\netcoreapp2.0\TestMysql2.AssemblyInfoInputs.cache
+c:\users\analista(hacsys)\source\repos\TestMysql2\obj\Debug\netcoreapp2.0\TestMysql2.AssemblyInfo.cs
+c:\users\analista(hacsys)\source\repos\TestMysql2\bin\Debug\netcoreapp2.0\TestMysql2.pdb
+c:\users\analista(hacsys)\source\repos\TestMysql2\obj\Debug\netcoreapp2.0\TestMysql2.dll
+c:\users\analista(hacsys)\source\repos\TestMysql2\obj\Debug\netcoreapp2.0\TestMysql2.pdb
